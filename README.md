@@ -5,7 +5,7 @@
 
 <br>[Иcходное описание задачи](https://github.com/sqrt495/DS_complex_tutorials/blob/master/doctors_prescribing_decisions_tasks.ipynb)
 
-### Task / Адаптированное учебное задание
+### Task / Адаптированное учебное задание:
 
 
 #### Задание 1. Погружение в тематику:
