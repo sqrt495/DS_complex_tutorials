@@ -1,11 +1,11 @@
 # <center>DS complex tutorial / Комплексное введение в Data Science </center>
 # <font color=blue><center>"Doctors prescribing decisions"</center></font>
-Серия тетрадок для решения курсовой работы "Prediction of doctors prescribing decisions" в рамках учебной программы [Faculty of Electrical Engineering and Computer Science (University of Maribor)](https://feri.um.si/en/), реализовано в `Jupyter Notebook`. Материалы собраны таким образом, чтобы последовательно ввести в механику и суть исследования, постепенно повышая уровень сложности материала. Этап исследования и уровень сложности материала указан в названиях тетрадок. Последовательность решения и сами задачии могут отличаться от исходного учебного задания (описанного ниже), структура изменена для более полного погружения в `DS & ML`.
+Серия тетрадок для решения курсовой работы "Prediction of doctors prescribing decisions" в рамках учебной программы [Faculty of Electrical Engineering and Computer Science (University of Maribor)](https://feri.um.si/en/). Основная часть работы выполнена с помощью библиотек `pandas`, `seaborn`, `sklearn`, реализовано в `Jupyter Notebook`. Материалы собраны таким образом, чтобы последовательно ввести в механику и суть исследования, постепенно повышая уровень сложности материала. Этап исследования и уровень сложности материала указан в названиях тетрадок. Последовательность решения и сами задачии могут отличаться от исходного учебного задания (описанного ниже), структура изменена для более полного погружения в `DS & ML`.
 
 
 <br>[Иcходное описание задачи](https://github.com/sqrt495/DS_complex_tutorials/blob/master/doctors_prescribing_decisions_tasks.ipynb)
 
-### Task / Адаптированное учебное задание
+### Task / Адаптированное учебное задание:
 
 
 #### Задание 1. Погружение в тематику:
@@ -15,7 +15,7 @@
 * Обзор литературы (научные статьи по выбранной теме);
 * Представление проблемы, вопрос исследования;
 
-**[`basic_level_notebook`]()**
+**[`basic_level_notebook`](https://github.com/sqrt495/DS_complex_tutorials/blob/master/basic_level_notebook.ipynb)**
 
 
 #### Задание 2. Предварительная обработка и описание базы данных:
@@ -26,7 +26,7 @@
 * Визуализация данных;
 * Feature engineering & selection.
 
-**[`basic_level_notebook`]() >>>>> 2 >>>>> [`advanced_level_notebook`]()**
+**[`basic_level_notebook`](https://github.com/sqrt495/DS_complex_tutorials/blob/master/basic_level_notebook.ipynb) >>>>> 2 > [`advanced_level_notebook`]()**
 
 
 #### Задание 3. Классические алгоритмы классификации:
@@ -36,7 +36,7 @@
 * Сравнить алгоритмы и эффект установки различных значений параметров моделей с помощью 10-кратной кроссвалидации;
 * Для каждого алгоритма рассчитать ROC AUC, чувствительность и специфичность (среднее и стандартное отклонение параметров), визуализировать с помощью [«ящичковой диаграммы»](https://ru.wikipedia.org/wiki/%D0%AF%D1%89%D0%B8%D0%BA_%D1%81_%D1%83%D1%81%D0%B0%D0%BC%D0%B8).
 
-**[`basic_level_notebook`]() >>>>> 2 >>>>> [`advanced_level_notebook`]()**
+**[`basic_level_notebook`](https://github.com/sqrt495/DS_complex_tutorials/blob/master/basic_level_notebook.ipynb) >>>>> 2 > [`advanced_level_notebook`]()**
 
 
 #### Задание 4. Ансамблевые и гибридные методы:
@@ -44,7 +44,7 @@
 * Изучить и протестировать не менее 3 ансамблевых/гибридных метода машинного обучения и логистическую регрессию на их основе;
 * Повторить все действия **Задания 3**.
 
-**[`basic_level_notebook`]() >>>>> 2 >>>>> [`advanced_level_notebook`]()**
+**[`basic_level_notebook`](https://github.com/sqrt495/DS_complex_tutorials/blob/master/basic_level_notebook.ipynb) >>>>> 2 > [`advanced_level_notebook`]()**
 
 
 #### Задание 5. Разработка собственного алгоритма:
