@@ -26,7 +26,7 @@
 * Визуализация данных;
 * Feature engineering & selection.
 
-**[`basic_level_notebook`](https://github.com/sqrt495/DS_complex_tutorials/blob/master/basic_level_notebook.ipynb) >>>>> 2 > [`advanced_level_notebook`]()**
+**[`basic_level_notebook`](https://github.com/sqrt495/DS_complex_tutorials/blob/master/basic_level_notebook.ipynb) >>>>> 2 > [`advanced_level_notebook`](https://github.com/sqrt495/DS_complex_tutorials/blob/master/advanced_level_notebook.ipynb)**
 
 
 #### Задание 3. Классические алгоритмы классификации:
@@ -44,7 +44,7 @@
 * Изучить и протестировать не менее 3 ансамблевых/гибридных метода машинного обучения и логистическую регрессию на их основе;
 * Повторить все действия **Задания 3**.
 
-**[`basic_level_notebook`](https://github.com/sqrt495/DS_complex_tutorials/blob/master/basic_level_notebook.ipynb) >>>>> 2 > [`advanced_level_notebook`]()**
+**[`basic_level_notebook`](https://github.com/sqrt495/DS_complex_tutorials/blob/master/basic_level_notebook.ipynb) >>>>> 2 > [`advanced_level_notebook`](https://github.com/sqrt495/DS_complex_tutorials/blob/master/advanced_level_notebook.ipynb)**
 
 
 #### Задание 5. Разработка собственного алгоритма:
@@ -52,7 +52,7 @@
 * Описание и реализация собственного ансамблевого/гибридного метода;
 * Сравнение используемых алгоритмов.
 
-**[`advanced_level_notebook`]()**
+**[`advanced_level_notebook`](https://github.com/sqrt495/DS_complex_tutorials/blob/master/advanced_level_notebook.ipynb)**
 
 
 
